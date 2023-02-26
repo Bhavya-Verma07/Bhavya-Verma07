@@ -5,6 +5,6 @@
 - 🤔 I’m looking for help with Fullstack development.
 - 💬 Ask me about the latest news of the time.
 - 📫 How to reach me: linkedin.com/in/bhavyaverma07
-- 😄 Pronouns: She/Her
+<!-- - 😄 Pronouns:  -->
 - ⚡ Fun fact: I can sketch you.
 
