@@ -6,5 +6,5 @@
 - 💬 Ask me about the latest news of the time.
 - 📫 How to reach me: linkedin.com/in/bhavyaverma07
 - ⚡ Fun fact: I can sketch you.
-- <!-- - 😄 Pronouns:  -->
+ <!-- - 😄 Pronouns:  -->
 
